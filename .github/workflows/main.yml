@@ -2,7 +2,7 @@ name: Get Feed
 
 on:
   schedule:
-    - cron: '00 07 * * *' # 3:00pm PST
+    - cron: '00 01 * * *' # 9:00 am Philippine Time
   workflow_dispatch:
 
 jobs:
